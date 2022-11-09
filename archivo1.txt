@@ -1,4 +1,4 @@
-# Este es un título para esta página HTML
+# Este es un título para esta página
 html
 head
 title ESTE ES EL TITULO /title
